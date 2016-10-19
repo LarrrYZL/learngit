@@ -6,4 +6,5 @@ Can you reveice my modification?
 Creating a new branch is quick and simple.
 Test branch management.
 Merge strategy is fast forward, not recursive
+Remote push dev branch
 
